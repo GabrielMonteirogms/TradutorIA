@@ -53,13 +53,14 @@ body {
 }
 
 .idioma {
+    background-color: #cfcfcf;
     width: 100%;
     border: none;
     border-radius: 15px;
     outline: none;
     padding: 10px;
-    background-color: #ffffff1a;
-    color: #ffffff;
+
+    
 }
 
 button {
@@ -77,6 +78,8 @@ button {
     gap: 10px; /*espaçamento entre os elementos */
     margin-top: 20px; /*margem em cima */
     margin-bottom: 20px; /* margem em baixo */
+       
+   
 }
 
 .resultado {
